@@ -2,8 +2,9 @@ faicons
 palmerpenguins
 pandas
 pyarrow
-plotly
+plotly==5.15.0
 seaborn
 shiny
 shinylive
 shinywidgets
+ipydatagrid
